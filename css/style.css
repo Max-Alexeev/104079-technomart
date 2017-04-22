@@ -1,11 +1,19 @@
 body {
-	
-}
-
-h1 {
-	
+	font-family: "Cuprum", sans-serif;
+	font-size: 17pt;
+	color: white;
+	line-height: 17pt;
 }
 
 h2 {
-	
+	font-size: 30pt;
+	text-transform: uppercase;
 }
+
+h3 {
+	font-family: "PT Sans";
+	font-size: 18pt;
+	font-weight: bold;
+	line-height: 20pt;
+}
+
